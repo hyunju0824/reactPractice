@@ -6,7 +6,6 @@ import '../App.css';
 import './UserList';
 import UserList from './UserList';
 
-
 function App() {
 
   return (
